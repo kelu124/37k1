@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Energy Recommendations
-nav_order: 14
+nav_order: 15
 ---
 
 # Energy Recommendations

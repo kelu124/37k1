@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Demolition planning & optimization
-nav_order: 21
+nav_order: 22
 ---
 
 # Demolition planning & optimization

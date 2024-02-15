@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Automated DGNB Assessment Tool
-nav_order: 29
+nav_order: 30
 ---
 
 # Automated DGNB Assessment Tool

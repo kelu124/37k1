@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Local businesses
-nav_order: 52
+nav_order: 53
 ---
 
 # Local businesses

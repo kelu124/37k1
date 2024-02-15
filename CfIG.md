@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Connectivity for Intelligent GBN
-nav_order: 31
+nav_order: 32
 ---
 
 # Connectivity for Intelligent GBN

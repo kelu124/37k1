@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Anomaly detection in consumption
-nav_order: 27
+nav_order: 28
 ---
 
 # Anomaly detection in consumption

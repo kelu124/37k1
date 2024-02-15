@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Major pandemic
-nav_order: 47
+nav_order: 48
 ---
 
 # Major pandemic

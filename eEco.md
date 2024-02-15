@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Economic crisis
-nav_order: 44
+nav_order: 45
 ---
 
 # Economic crisis

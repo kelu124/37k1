@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Energy Awareness for Users
-nav_order: 15
+nav_order: 16
 ---
 
 # Energy Awareness for Users

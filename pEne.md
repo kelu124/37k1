@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Energy providers
-nav_order: 51
+nav_order: 52
 ---
 
 # Energy providers

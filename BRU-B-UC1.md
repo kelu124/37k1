@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Energy Community Info Platform
-nav_order: 25
+nav_order: 26
 ---
 
 # Energy Community Info Platform

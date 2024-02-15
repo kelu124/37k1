@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Green Building Integration
-nav_order: 1
+nav_order: 2
 ---
 
 # Green Building Integration

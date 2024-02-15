@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Aligning Green Financing Challenge
-nav_order: 8
+nav_order: 9
 ---
 
 # Aligning Green Financing Challenge
