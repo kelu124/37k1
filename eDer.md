@@ -1,6 +1,6 @@
 ---
 layout: default
-title: eDer
+title: Unchecked deregulation
 nav_order: 45
 ---
 

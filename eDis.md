@@ -1,6 +1,6 @@
 ---
 layout: default
-title: eDis
+title: Polarization and Distrust
 nav_order: 43
 ---
 

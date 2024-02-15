@@ -1,6 +1,6 @@
 ---
 layout: default
-title: eBio
+title: Biodiversity collapse
 nav_order: 48
 ---
 

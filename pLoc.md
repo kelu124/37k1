@@ -1,6 +1,6 @@
 ---
 layout: default
-title: pLoc
+title: Local businesses
 nav_order: 52
 ---
 

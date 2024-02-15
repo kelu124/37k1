@@ -1,6 +1,6 @@
 ---
 layout: default
-title: pEne
+title: Energy providers
 nav_order: 51
 ---
 

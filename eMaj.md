@@ -1,6 +1,6 @@
 ---
 layout: default
-title: eMaj
+title: Major pandemic
 nav_order: 47
 ---
 

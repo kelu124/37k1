@@ -1,6 +1,6 @@
 ---
 layout: default
-title: eEco
+title: Economic crisis
 nav_order: 44
 ---
 
